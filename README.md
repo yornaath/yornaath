@@ -1,6 +1,6 @@
 # Yornaath
 <img src="https://raw.githubusercontent.com/yornaath/yornaath/refs/heads/main/lambda2.png" width="19px" alt="buymeacoffee" /> Programmer </br>
-🧘🏽Student of the yogic sciences</br>
+🧘 Student of the yogic sciences</br>
 🏂 Hobby snowboarder</br>
 
 
