@@ -1,4 +1,6 @@
 # Yornaath
+Programmer, student of the yogic sciences and hobby snowboarder.
+
 ![Yornaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=yornaath&show_icons=true&theme=gruvbox)
 
 ## Skills & Tech
@@ -25,4 +27,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## ☕ Coffee 
+I do actually drink coffee every day so if you want to sponsor my habit feel free! <3
+
+<a href="https://www.buymeacoffee.com/yornaath">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 
