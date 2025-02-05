@@ -1,5 +1,8 @@
 # Yornaath
-Programmer, student of the yogic sciences and hobby snowboarder.
+<img src="https://raw.githubusercontent.com/yornaath/yornaath/refs/heads/main/lambdalab.png"  width="14" alt="buymeacoffee" /> Programmer </br>
+🧘🏽Student of the yogic sciences</br>
+🏂 Hobby snowboarder</br>
+
 
 ![Yornaath's GitHub stats](https://github-readme-stats.vercel.app/api?username=yornaath&show_icons=true&theme=gruvbox)
 
